@@ -10,7 +10,7 @@
     "name": "HexForge Kobra 3 V2 0.4 nozzle",
     "printer_settings_id": "HexForge Kobra 3 V2 0.4 nozzle",
     "printer_model": "HexForge Kobra 3 V2",
-    "printer_variant": "0.4 nozzle",
+    "printer_variant": "0.4",
     "nozzle_diameter": [
         "0.4"
     ],
