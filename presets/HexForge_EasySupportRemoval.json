@@ -1,0 +1,9 @@
+{
+  "_comment": "Preset tuned for easy support removal on PLA prints.",
+  "support_pattern": "snug",
+  "support_density": 10,
+  "support_interface_layers": 2,
+  "support_interface_density": 70,
+  "support_top_z_distance": 0.28,
+  "support_bottom_z_distance": 0.2
+}

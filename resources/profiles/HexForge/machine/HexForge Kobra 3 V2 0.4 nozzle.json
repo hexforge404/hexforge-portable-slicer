@@ -6,7 +6,7 @@
     "is_custom_defined": "0",
     "instantiation": "true",
     "version": "1.3.2512.26",
-    "inherits": "Anycubic Kobra 3 V2 0.4 nozzle",
+    "inherits": "Anycubic Kobra 3 0.4 nozzle",
     "name": "HexForge Kobra 3 V2 0.4 nozzle",
     "printer_settings_id": "HexForge Kobra 3 V2 0.4 nozzle",
     "printer_model": "HexForge Kobra 3 V2",
@@ -16,7 +16,7 @@
     ],
     "default_print_profile": "HexForge_Kobra3v2_Standard",
     "default_filament_profile": [
-        "Anycubic PLA @Anycubic Kobra 3 V2 0.4 nozzle"
+        "Anycubic PLA @Anycubic Kobra 3 0.4 nozzle"
     ],
     "disable_m73": "0",
     "gcode_flavor": "klipper",
