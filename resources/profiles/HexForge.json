@@ -1,39 +1,30 @@
 {
-    "name": "HexForge",
-    "id": "hexforge",
-    "version": "1.0",
-    "force_update": "0",
-    "description": "HexForge configurations",
-    "machine_model_list": [
-        {
-            "name": "HexForge Kobra 3 V2",
-            "sub_path": "machine/HexForge Kobra 3 V2.json"
-        }
-    ],
-    "process_list": [
-        {
-            "name": "fdm_process_common",
-            "sub_path": "process/fdm_process_common.json"
-        },
-        {
-            "name": "HexForge_Kobra3v2_Standard",
-            "sub_path": "process/HexForge_Kobra3v2_Standard.json"
-        }
-    ],
-    "filament_list": [
-        {
-            "name": "HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle",
-            "sub_path": "filament/HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle.json"
-        }
-    ],
-    "machine_list": [
-        {
-            "name": "fdm_machine_common",
-            "sub_path": "machine/fdm_machine_common.json"
-        },
-        {
-            "name": "HexForge Kobra 3 V2 0.4 nozzle",
-            "sub_path": "machine/HexForge Kobra 3 V2 0.4 nozzle.json"
-        }
-    ]
+  "name": "HexForge",
+  "id": "hexforge",
+  "version": "1.0",
+  "description": "HexForge printer profiles",
+  "machine_model_list": [
+    {
+      "name": "HexForge Kobra 3 V2",
+      "sub_path": "machine/HexForge Kobra 3 V2.json"
+    }
+  ],
+  "machine_list": [
+    {
+      "name": "HexForge Kobra 3 V2 0.4 nozzle",
+      "sub_path": "machine/HexForge Kobra 3 V2 0.4 nozzle.json"
+    }
+  ],
+  "process_list": [
+    {
+      "name": "HexForge_Kobra3v2_Standard",
+      "sub_path": "process/HexForge_Kobra3v2_Standard.json"
+    }
+  ],
+  "filament_list": [
+    {
+      "name": "HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle",
+      "sub_path": "filament/HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle.json"
+    }
+  ]
 }
