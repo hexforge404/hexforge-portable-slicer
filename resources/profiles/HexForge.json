@@ -21,6 +21,10 @@
 
   "process_list": [
     {
+      "name": "fdm_process_common",
+      "sub_path": "process/fdm_process_common.json"
+    },
+    {
       "name": "HexForge_Kobra3v2_Standard",
       "sub_path": "process/HexForge_Kobra3v2_Standard.json"
     }

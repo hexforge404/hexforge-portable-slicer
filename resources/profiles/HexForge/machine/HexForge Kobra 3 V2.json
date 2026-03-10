@@ -5,8 +5,8 @@
   "name": "HexForge Kobra 3 V2",
   "model_id": "HexForge Kobra 3 V2",
   "nozzle_diameter": "0.4",
-  "bed_model": "",
-  "bed_texture": "",
+  "bed_model": "Anycubic Kobra 3_buildplate_model.stl",
+  "bed_texture": "Anycubic Kobra 3_buildplate_texture.svg",
   "hotend_model": "",
   "default_materials": "HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle"
 }

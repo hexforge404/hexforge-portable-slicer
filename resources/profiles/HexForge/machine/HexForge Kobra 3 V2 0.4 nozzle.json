@@ -27,7 +27,9 @@
         "0x255"
     ],
     "printable_height": "260",
-    "thumbnails": "230x110/PNG",
+    "thumbnails": [
+        "230x110"
+    ],
     "thumbnails_format": "PNG",
     "thumbnails_internal": "512x512/PNG/top",
     "thumbnails_internal_switch": "1",
