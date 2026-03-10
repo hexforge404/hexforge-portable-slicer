@@ -16,7 +16,7 @@
     ],
     "default_print_profile": "HexForge_Kobra3v2_Standard",
     "default_filament_profile": [
-        "Anycubic PLA @Anycubic Kobra 3 0.4 nozzle"
+        "HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle"
     ],
     "disable_m73": "0",
     "gcode_flavor": "klipper",

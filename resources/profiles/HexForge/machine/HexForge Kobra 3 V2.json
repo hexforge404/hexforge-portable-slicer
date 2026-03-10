@@ -8,5 +8,5 @@
   "bed_model": "",
   "bed_texture": "",
   "hotend_model": "",
-  "default_materials": "Anycubic PLA @Anycubic Kobra 3 0.4 nozzle"
+  "default_materials": "HexForge PLA @HexForge Kobra 3 V2 0.4 nozzle"
 }
